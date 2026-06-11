@@ -20,6 +20,7 @@ Welcome to my GitHub profile!
 ## 🔧 目前的專案 (Current Projects)
 
 - **菜單推薦器** 利用Python、CLIP、Transformers，並架設前端的網頁，使用者能夠上傳食材圖像和輸入食材文字，進行食譜推薦
+- **演算法-五子棋** 以純 Python 實作的五子棋決策引擎。自行設計多層優先度評分系統，涵蓋沖四、活四、雙活三、活三、雙活二等棋形辨識，並同時計算進攻與防守分數，依權重排序後選出最優落點。核心邏輯包含 `countChain`（連子計數）與 `peek`（開口活棋判斷）。
 
 ---
 
@@ -35,7 +36,7 @@ Welcome to my GitHub profile!
 
 **Software & Tools**
 
-`C / C++` | `Python` | `Git` | `Android Studio` | `Verilog` | `flutter`
+`C / C++` | `Python` | `Git` | `Android Studio` | `Verilog` | `flutter` | `Heuristic Search (Gomoku AI)`
 
 ---
 
