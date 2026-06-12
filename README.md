@@ -7,6 +7,12 @@ Welcome to my GitHub profile!
 > *"Bridging the gap between data, systems, and real-world engineering."*
 
 ---
+## 🔧 目前的專案 (Current Projects)
+
+- **菜單推薦器** 利用Python、CLIP、Transformers，並架設前端的網頁，使用者能夠上傳食材圖像和輸入食材文字，進行食譜推薦
+- **演算法-五子棋** 以純 Python 實作的五子棋決策引擎。自行設計多層優先度評分系統，涵蓋沖四、活四、雙活三、活三、雙活二等棋形辨識，並同時計算進攻與防守分數，依權重排序後選出最優落點。核心邏輯包含 `countChain`（連子計數）與 `peek`（開口活棋判斷）。
+
+---
 
 ## 🔧 已完成的專案 (Project Completeds)
 
@@ -14,13 +20,6 @@ Welcome to my GitHub profile!
 - **學習有深度：提高影像辨識準確度** 🧠　科展研究專題。以 Python + TensorFlow/Keras 實作 CNN 卷積神經網路，系統性探討訓練次數（epochs）、批次尺寸（batch_size）、卷積池化層數對 CIFAR-10 影像辨識準確度的影響。
 - **組合語言七段顯示器計數器** 🔢　使用 AT89S51 相容晶片與組合語言，透過 Timer1 中斷實作 99~0 動態掃描計數器，解決殘影問題。
 - **園遊會抽獎程式** 🎉　為學校活動自製的抽獎應用程式，實際應用於全校師生活動。
-
----
-
-## 🔧 目前的專案 (Current Projects)
-
-- **菜單推薦器** 利用Python、CLIP、Transformers，並架設前端的網頁，使用者能夠上傳食材圖像和輸入食材文字，進行食譜推薦
-- **演算法-五子棋** 以純 Python 實作的五子棋決策引擎。自行設計多層優先度評分系統，涵蓋沖四、活四、雙活三、活三、雙活二等棋形辨識，並同時計算進攻與防守分數，依權重排序後選出最優落點。核心邏輯包含 `countChain`（連子計數）與 `peek`（開口活棋判斷）。
 
 ---
 
