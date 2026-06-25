@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 
 **Software & Tools**
 
-`C / C++` | `Python` | `Git` | `Android Studio` | `Verilog` | `flutter` | `Heuristic Search (Gomoku AI)`
+`C / C++` | `Git` | `Android Studio` | `Verilog` | `flutter` | `Heuristic Search (Gomoku AI)` | `Python`(還要在學億點點)
 
 ---
 
